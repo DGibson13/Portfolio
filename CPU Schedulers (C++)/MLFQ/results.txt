@@ -1,0 +1,45 @@
+P1: wait Time: 325
+Turnaround Time: 736
+Response Time: 0
+
+
+P2: wait Time: 291
+Turnaround Time: 822
+Response Time: 5
+
+
+P3: wait Time: 349
+Turnaround Time: 629
+Response Time: 24
+
+
+P4: wait Time: 214
+Turnaround Time: 812
+Response Time: 31
+
+
+P5: wait Time: 278
+Turnaround Time: 967
+Response Time: 49
+
+
+P6: wait Time: 319
+Turnaround Time: 676
+Response Time: 55
+
+
+P7: wait Time: 234
+Turnaround Time: 665
+Response Time: 66
+
+
+P8: wait Time: 328
+Turnaround Time: 753
+Response Time: 88
+
+
+Total Time: 968
+CPUtilization: 83.1612%
+Average Wait Time: 292.25
+Average Turnaround Time: 757.5
+Average Response Time: 39.75

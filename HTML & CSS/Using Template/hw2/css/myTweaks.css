@@ -1,0 +1,35 @@
+/*These are my own tweaks to the template*/
+body {
+    background-color: #00cccc;
+}
+
+.intro-text {
+    text-transform: uppercase;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.btn-circle:hover,
+.btn-circle:focus {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.btn-default {
+  border: 1px solid white;
+  color: white;
+  background-color: transparent;
+}
+.btn-default:hover,
+.btn-default:focus {
+  border: 1px solid #00cccc;
+  outline: none;
+  color: black;
+  background-color: #00cccc;
+}
+
+li {
+    text-align: left;
+}

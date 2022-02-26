@@ -1,0 +1,39 @@
+/* My changes to the original CSS */
+.navbar-custom a {
+  color: black;
+}
+
+.navbar-custom.top-nav-collapse {
+    background: white;
+}
+
+.intro {
+    color: #262626;
+    text-shadow: 1px 1px white;
+}
+
+.intro-text {
+    text-transform: uppercase;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px white;
+}
+
+.btn-circle {
+  border: 2px solid black;
+  color: black;
+}
+.btn-circle:hover,
+.btn-circle:focus {
+  color: black;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.input {
+    color: black;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.result {
+    color: white;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
