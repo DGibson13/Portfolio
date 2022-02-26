@@ -1,0 +1,10 @@
+1a) I can think of 3 good ways to show this data: dot plots, line plots, and bar plots. I have created one version of each of these plots.
+
+1b) I believe the best way to show the average with these plots is by drawing a line using the same axis as the percentage. For my plots, this is the y axis and I have drawn a horizontal line showing the average.
+
+1c) Of my visualizations, I like the line plot the best because I believe is it the most clear. The dot plot can be kind of vague because the points are very scattered. The bar plot covers too much of the empty space and makes the plot feel somewhat claustrophobic. I acknowledge that this weakness of the bar plot can be adjusted using the theming tools of ggplot2. However, that takes much more time and effort than using the line plot, which has a clean presentation for this data without very much modification.
+
+
+2a) It is not immediately clear what this plot is trying to communicate to me. There is a red circle around two points in 2019, but I do not know why. The legend only defines two colors when there are many more than that on the plot. What do those extra colors mean? Also the y axis is unlabeled, so I don't know what it means.
+
+Unfortunately the data provided to me from the hyperlinks in the PDF also doesn't specify what those values actually mean, so the y axis had to remain unlabeled in the plot I made.
