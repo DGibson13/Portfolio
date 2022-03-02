@@ -28,9 +28,9 @@ This demonstrates that I have some experience in using R to generate meaningful 
 
 ## HTML & CSS
 
-In the Using Templates folder is a few websites I made while I was learning how to work with HTML and CSS. For these I used a Bootstrap template, so I was also learning how to work with the Bootstrap library as well. I experimented with making tools, like a converter and a to-do list.
+In the Using Templates folder is a few websites I made while I was learning how to work with HTML and CSS. For these I edited a Bootstrap template, so I was also learning how to work with the Bootstrap library as well. I experimented with making tools, like a converter and a to-do list.
 
-The From Scratch folder contains a site that I made with no template, to better learn how to use Bootstrap.
+The From Scratch folder contains a site that I made with a bare bones starter template from Bootstrap's website, to better learn how to use Bootstrap. In contrast to the previous template I used, this one required me to create my own elements and assign Boostrap classes to them.
 
 ---
 
