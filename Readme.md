@@ -26,6 +26,14 @@ The From Scratch folder contains a site that I made with a bare bones starter te
 
 ---
 
+## Questlog (flask web app)
+
+I worked with a partner to create this web app during my final semester as an undergrad. This app followed the model-view-controller pattern. The components of the app are: a PostGRES database, the user interface accessible via browser, and the flask app itself. The flask app communicates with a browser using HTML and CSS served by jinja templates. The app communicates with the database with SQL statements served by a cursor from the psycopg python library.
+
+The purpose of the app is to serve as a personal tracker for games a user has played, is playing, or wants to play. It has a note taking feature and a way to mark games as favorite. All changes are reflected in the PostGRES database. An account feature was planned and prototyped, but never fully implemented. As such, this app is meant to be run locally and for one user only.
+
+---
+
 ## SQL
 
 _IMPORTANT: This was written for **Oracle's** SQL syntax._
