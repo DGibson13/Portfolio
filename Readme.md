@@ -1,11 +1,3 @@
-## CPU schedulers (C++)
-
-I made these with a partner at my first university, Florida Atlantic University. It's been more than 5 years and I have since forgotten the finer details of how the schedulers work, but I do remember being quite proud of them.
-
-Retested in Feb 2022 and they compiled as-is on Visual Studio Code with the appropriate 1st party C++ extension and Mingw-w64. If needed, follow the instructions in the 'Prerequisites' section [here](https://code.visualstudio.com/docs/cpp/config-mingw)
-
----
-
 ## Chat Program (C++)
 
 I worked with a partner to create a very simple network chat application. There are two chat applications, a server and a client. The server needs to be launched first.
