@@ -26,9 +26,9 @@ def create_app(test_config=None):
         conn.close()
         return
 
-    # a simple page that says hello
     @app.route('/', methods=('GET', 'POST'))
     def index():
+        # use this function call to populate the database with pre-made test entries
         #test_insert_into_table()
 
         conn = get_db_connection()
